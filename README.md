@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ... AWS !!!
 - 💞️ I’m looking to collaborate on ... my own projects and any freelance project than enhance my programming skills.
 - 📫 How to reach me ... drop me a mail over juaniglesiasruiz@outlook.com.mx or contact me here
-
+netlify   -> jhonymentiendo@gmail.com
 bitbucket -> jhonymentiendo23
-gitlab ->  @jhonymentiendo1   |   User ID: 14540269
+gitlab    -> @jhonymentiendo1   |   User ID: 14540269
 
 
 
